@@ -34,7 +34,7 @@
 - https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="![image](https://user-images.githubusercontent.com/108493146/206850626-6641bfb1-427f-4d27-8fc8-695c0da9331b.png)" height="30" width="40" />
+<img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="30" width="40" />
 
 <h3 align="left">📫 Connect with me:</h3>
 
