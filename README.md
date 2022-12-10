@@ -33,6 +33,10 @@
 
 - https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
 
+<h3 align="left">📖 Books I read:</h3>
+
+- <a href="https://m.media-amazon.com/images/P/B088P9Q6BB.01._SCLZZZZZZZ_SX500_.jpg" target="_blank">JAVASCRIPT THE DEFINITIVE GUIDE</a> &nbsp;
+
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
  <img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="50" width="50" />&nbsp;
@@ -53,6 +57,8 @@
 </p>
 
 
-
+<br />
+<br />
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitha-rajeev1&show_icons=true&locale=en&layout=compact" alt="arpitha-rajeev1" /></p>
