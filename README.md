@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpitha-Rajeev1
-- 👀 I’m interested in JavaScript, React JS, Next JS and Programming in general
+- 👀 I’m interested in TypeScript, React JS, Next JS and Programming in general
 - 🌱 I’m currently making projects in MERN
 - 💞️ I’m looking to collaborate on interesting Frontend Web Development projects
 - 📫 How to reach me : email me @ arpitha.rajeev37@gmail.com
