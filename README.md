@@ -35,11 +35,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="50" width="50" />
-<img align="center" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" height="50" width="50" />
-<img align="center" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" height="50" width="70" />
-<img align="center" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="50" width="50" />
-<img align="center" src="https://caodang.fpt.edu.vn/wp-content/uploads/Tailwind-Css.jpg" height="50" width="70" />
+<img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="50" width="50" />&nbsp;
+<img align="center" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" height="50" width="50" />&nbsp;
+<img align="center" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" height="50" width="70" />&nbsp;
+<img align="center" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="50" width="50" />&nbsp;
+<img align="center" src="https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg" height="50" width="70" />&nbsp;
 </p>
  
 <h3 align="left">📫 Connect with me:</h3>
