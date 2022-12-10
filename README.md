@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
 <h3 align="center">Frontend Web Developer specializing in TypeScript, React JS, and Next JS.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitha-rajeev1&label=Profile%20views&color=0e75b6&style=flat" alt="arpitha-rajeev1" /> </p>
 
 - 🔭 I’m currently working on **E-Commerce MERN stack project**
 
@@ -26,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/arpitharajeev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arpitharajeev1" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/arpitharajeev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/arpitharajeev1" height="30" width="40" /></a>
 <a href="https://twitter.com/arpitha_rajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitha_rajeev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpitha-rajeev-1107b3203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitha-rajeev-1107b3203/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@arpitha-rajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@arpitha-rajeev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://arpitha-rajeev.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://arpitha-rajeev.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://medium.com/@arpitha.rajeev37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpitha.rajeev37" height="30" width="40" /></a>
 </p>
 
