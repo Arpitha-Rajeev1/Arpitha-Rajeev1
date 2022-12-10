@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
 <h3 align="center">Frontend Web Developer specializing in TypeScript, React JS, and Next JS.</h3>
 
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **E-Commerce MERN stack project**
 
 - 🌱 I’m currently learning **Node JS, Express JS**
