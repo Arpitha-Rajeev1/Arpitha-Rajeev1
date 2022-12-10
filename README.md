@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://arpitha-rajeev.hashnode.dev/](https://arpitha-rajeev.hashnode.dev/)
 
-- 💬 Ask me about **TypeScript, Next JS, React JS**
+- 💬 Let's collaborate on projects using **TypeScript, Next JS, React JS**
 
 - 📫 How to reach me **arpitha.rajeev37@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://dev.to/https://dev.to/arpitharajeev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/arpitharajeev1" height="30" width="40" /></a>
-<a href="https://twitter.com/arpitha_rajeev" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg)" alt="arpitha_rajeev" height="30" width="40" /></a>
+<a href="https://twitter.com/arpitha_rajeev" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="arpitha_rajeev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://arpitha-rajeev.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://arpitha-rajeev.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://medium.com/@arpitha.rajeev37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpitha.rajeev37" height="30" width="40" /></a>
