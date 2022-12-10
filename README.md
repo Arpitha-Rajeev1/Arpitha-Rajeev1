@@ -34,7 +34,10 @@
 - https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="30" width="40" />
+<img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="50" width="50" /> &nbsp;
+<img align="center" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" height="50" width="50" />
+<img align="center" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" height="50" width="50" />
+<img align="center" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="50" width="50" />
 
 <h3 align="left">📫 Connect with me:</h3>
 
