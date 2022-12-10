@@ -49,11 +49,11 @@
 <h3 align="left">📫 Connect with me:</h3>
 
 <p align="left">
- <a href="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" height="30" width="40" /></a> &nbsp;
- <a href="https://twitter.com/arpitha_rajeev" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-C591CF37A1-seeklogo.com.png" alt="arpitha_rajeev" height="30" width="40" /></a> &nbsp;
- <a href="https://arpitha-rajeev.hashnode.dev/" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="https://arpitha-rajeev.hashnode.dev/" height="30" width="40" /></a> &nbsp;
- <a href="https://dev.to/arpitharajeev1" target="_blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="https://dev.to/arpitharajeev1" height="30" width="40" /></a> &nbsp;
- <a href="https://medium.com/@arpitha.rajeev37" target="_blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@arpitha.rajeev37" height="30" width="70" /></a>
+ <a href="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" height="30" width="30" /></a> &nbsp; &nbsp;
+ <a href="https://twitter.com/arpitha_rajeev" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-C591CF37A1-seeklogo.com.png" alt="arpitha_rajeev" height="30" width="40" /></a> &nbsp; &nbsp;
+ <a href="https://arpitha-rajeev.hashnode.dev/" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="https://arpitha-rajeev.hashnode.dev/" height="30" width="40" /></a> &nbsp; &nbsp;
+ <a href="https://dev.to/arpitharajeev1" target="_blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="https://dev.to/arpitharajeev1" height="30" width="40" /></a> &nbsp; &nbsp;
+ <a href="https://medium.com/@arpitha.rajeev37" target="_blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@arpitha.rajeev37" height="30" width="90" /></a>
 </p>
 
 
