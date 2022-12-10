@@ -19,6 +19,15 @@
 
 - 📄 Know about my experiences [https://medium.com/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
 
+<h3 align="left">🔧 Recent Projects:</h3>
+- [https://github.com/Arpitha-Rajeev1/e-commerce](https://github.com/Arpitha-Rajeev1/e-commerce)
+- [https://github.com/Arpitha-Rajeev1/Movie-Stream-App](https://github.com/Arpitha-Rajeev1/Movie-Stream-App)
+- [https://github.com/Arpitha-Rajeev1/A-Movie-App](https://github.com/Arpitha-Rajeev1/A-Movie-App)
+
+<h3 align="left">✍ Latest posts:</h3>
+- [https://arpitha-rajeev.hashnode.dev/using-localstorage-with-react-hooks-in-typescript](https://arpitha-rajeev.hashnode.dev/using-localstorage-with-react-hooks-in-typescript)
+- [https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request](https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request)
+
 <h3 align="left">📫 Connect with me:</h3>
 
 <p align="left">
