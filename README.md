@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
-<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java (Springboot, Gradle) and Node JS, frontend technologies like TypeScript, Python, React JS</h3>
+<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java, Node JS and Python, frontend technologies like TypeScript, JavaScript, React JS</h3>
 
  <h3 align="left">💻 About me:</h3>
 
