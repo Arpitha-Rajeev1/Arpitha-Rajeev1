@@ -31,16 +31,7 @@
 
 <h3 align="left">📖 Book I am reading:</h3>
 
-- <a href="https://m.media-amazon.com/images/P/B088P9Q6BB.01._SCLZZZZZZZ_SX500_.jpg" target="_blank">GRADLE IN ACTION</a> &nbsp;
-
-<h3 align="left">🔧 Languages and Tools:</h3>
-<p align="left">
- <img align="center" src="https://www.computerhope.com/jargon/j/javascript.png" height="50" width="50" />&nbsp;
- <img align="center" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" height="50" width="50" />&nbsp;
- <img align="center" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" height="50" width="70" />&nbsp;
- <img align="center" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="50" width="50" />&nbsp;
- <img align="center" src="https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg" height="50" width="70" />&nbsp;
-</p>
+- <a href="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/611QmrGM-YL._SL1500_.jpg" target="_blank">GRADLE IN ACTION</a> &nbsp;
  
 <h3 align="left">📫 Connect with me:</h3>
 
@@ -54,4 +45,5 @@
 <br />
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitha-rajeev1&show_icons=true&locale=en&layout=compact" alt="arpitha-rajeev1" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitha-rajeev1&show_icons=true&locale=en&layout=compact" alt="arpitha-rajeev1" /></p> !>
+
