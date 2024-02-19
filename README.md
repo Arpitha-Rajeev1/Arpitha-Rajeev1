@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
-<h3 align="center">Full Stack Web Developer specializing in TypeScript, Node JS, Python, React JS, and Java.</h3>
+<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java (Springboot, Gradle) and Node JS, frontend technologies like TypeScript, Python, React JS.</h3>
 
  <h3 align="left">💻 About me:</h3>
 
-- 🔭 I’m a Full Stack Web Developer with 2 years of experience.
+- 🔭 I’m a Full Stack Software Engineer with over 5 years of experience.
 
 - 🌱 I'm a Electronics and Communication Engineering graduate with minor in Computer Science, Mathematics and Physics.
 
-- 👯 I’m currently working on an E-commerce project in MERN stack.
+- 👯 I’m currently working on building a blog platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
 - 📝 I regularly write articles on [https://medium.com/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
 
-- 💬 Let's collaborate on projects using **TypeScript, Node JS, Python, Java, React JS**
+- 💬 Write an email to collaborate on projects with me.
 
 - 📫 How to reach me **arpitha.rajeev37@gmail.com**
 
