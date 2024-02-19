@@ -27,7 +27,7 @@
 
 <h3 align="left">✍ Latest posts:</h3>
 
-- API Architecture Styles: REST API(https://medium.com/@arpitha.rajeev37/api-architecture-styles-rest-api-e3443529be2a)
+- [API Architecture Styles: REST API](https://medium.com/@arpitha.rajeev37/api-architecture-styles-rest-api-e3443529be2a)
 
 - https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
 
