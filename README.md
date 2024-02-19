@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
-<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java (Springboot, Gradle) and Node JS, frontend technologies like TypeScript, Python, React JS.</h3>
+<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java (Springboot, Gradle) and Node JS, frontend technologies like TypeScript, Python, React JS</h3>
 
  <h3 align="left">💻 About me:</h3>
 
-- 🔭 I’m a Full Stack Software Engineer with over 5 years of experience.
+- 🔭 I’m a Full Stack Software Engineer with over 5 years of experience
 
-- 🌱 I'm a Electronics and Communication Engineering graduate with minor in Computer Science, Mathematics and Physics.
+- 🌱 I'm an Electronics and Communication Engineering graduate with a minor in Computer Science, Mathematics, and Physics
 
-- 👯 I’m currently working on building a blog platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend.
+- 👯 I’m currently working on building a blog platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
-- 📝 I regularly write articles on [medium/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
+- 📝 I regularly write articles on [medium/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37) about Programming and my Travel experiences
 
 - 💬 Write an email to collaborate on projects with me.
 
@@ -25,11 +25,9 @@
 
 - https://github.com/Arpitha-Rajeev1/A-Movie-App
 
-<h3 align="left">✍ Latest posts:</h3>
+<h3 align="left">✍ List of my Programming Blogs:</h3>
 
-- [API Architecture Styles: REST API](https://medium.com/@arpitha.rajeev37/api-architecture-styles-rest-api-e3443529be2a)
-
-- https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
+- [List of my Programming Blogs](https://medium.com/@arpitha.rajeev37/list-of-my-programming-blogs-a5205c4429ac)
 
 <h3 align="left">📖 Books I read:</h3>
 
