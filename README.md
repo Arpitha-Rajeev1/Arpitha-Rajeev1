@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
-- 📝 I regularly write articles on [arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
+- 📝 I regularly write articles on [medium/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
 
 - 💬 Write an email to collaborate on projects with me.
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">✍ Latest posts:</h3>
 
-- https://arpitha-rajeev.hashnode.dev/using-localstorage-with-react-hooks-in-typescript
+- API Architecture Styles: REST API(https://medium.com/@arpitha.rajeev37/api-architecture-styles-rest-api-e3443529be2a)
 
 - https://arpitha-rajeev.hashnode.dev/dont-use-res-json-twice-in-a-single-post-request
 
