@@ -29,9 +29,9 @@
 
 - [List of my Programming Blogs](https://medium.com/@arpitha.rajeev37/list-of-my-programming-blogs-a5205c4429ac)
 
-<h3 align="left">📖 Books I read:</h3>
+<h3 align="left">📖 Book I am reading:</h3>
 
-- <a href="https://m.media-amazon.com/images/P/B088P9Q6BB.01._SCLZZZZZZZ_SX500_.jpg" target="_blank">JAVASCRIPT THE DEFINITIVE GUIDE</a> &nbsp;
+- <a href="https://m.media-amazon.com/images/P/B088P9Q6BB.01._SCLZZZZZZZ_SX500_.jpg" target="_blank">GRADLE IN ACTION</a> &nbsp;
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
@@ -46,9 +46,6 @@
 
 <p align="left">
  <a href="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/arpitha-rajeev-1107b3203/" height="30" width="30" /></a> &nbsp; &nbsp;
- <a href="https://twitter.com/arpitha_rajeev" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-C591CF37A1-seeklogo.com.png" alt="arpitha_rajeev" height="30" width="40" /></a> &nbsp; &nbsp;
- <a href="https://arpitha-rajeev.hashnode.dev/" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="https://arpitha-rajeev.hashnode.dev/" height="30" width="40" /></a> &nbsp; &nbsp;
- <a href="https://dev.to/arpitharajeev1" target="_blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="https://dev.to/arpitharajeev1" height="30" width="40" /></a> &nbsp; &nbsp;
  <a href="https://medium.com/@arpitha.rajeev37" target="_blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@arpitha.rajeev37" height="30" width="90" /></a>
 </p>
 
