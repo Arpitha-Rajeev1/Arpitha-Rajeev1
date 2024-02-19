@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
-- 📝 I regularly write articles on [https://medium.com/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
+- 📝 I regularly write articles on [arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
 
 - 💬 Write an email to collaborate on projects with me.
 
