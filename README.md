@@ -9,7 +9,7 @@
 
 - 👯 I’m currently working on building a blog platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
+- 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
 - 📝 I regularly write articles on [https://medium.com/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37)
 
