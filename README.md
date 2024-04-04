@@ -7,7 +7,7 @@
 
 - 🌱 I'm an Electronics and Communication Engineering graduate with a minor in Computer Science, Mathematics, and Physics
 
-- 👯 I’m currently working on building a blog platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend
+- 👯 I’m currently working on building a Personal Finance Management platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
