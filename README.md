@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpitha Rajeev</h1>
-<h3 align="center">Full Stack Software Engineer specializing in AWS, backend programming like Java, Node JS and Python, frontend technologies like TypeScript, JavaScript, React JS</h3>
 
  <h3 align="left">💻 About me:</h3>
 
-- 🔭 I’m a Full Stack Software Engineer with over 5 years of experience
-
 - 🌱 I'm an Electronics and Communication Engineering graduate with a minor in Computer Science, Mathematics, and Physics
-
-- 👯 I’m currently working on building a Personal Finance Management platform that uses a serverless backend with AWS Lambda and API Gateway and React.js for the frontend
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
