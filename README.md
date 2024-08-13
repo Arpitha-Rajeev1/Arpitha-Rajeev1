@@ -2,7 +2,7 @@
 
  <h3 align="left">💻 About me:</h3>
 
-- 🌱 I'm an Electronics and Communication Engineering graduate with a minor in Computer Science, Mathematics, and Physics
+- 🌱 I'm a recent Master's graduate in Informatics and Business
 
 - 👨‍💻 All of my projects are available at [Arpitha-Rajeev1](https://github.com/Arpitha-Rajeev1)
 
