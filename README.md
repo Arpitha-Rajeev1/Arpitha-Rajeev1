@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [medium/@arpitha.rajeev37](https://medium.com/@arpitha.rajeev37) about Programming and my Travel experiences
 
-- 💬 Write an email to collaborate on projects with me.
-
 - 📫 How to reach me **arpitha.rajeev37@gmail.com**
 
 <h3 align="left">🔧 Recent Projects:</h3>
@@ -23,10 +21,6 @@
 <h3 align="left">✍ List of my Programming Blogs:</h3>
 
 - [List of my Programming Blogs](https://medium.com/@arpitha.rajeev37/list-of-my-programming-blogs-a5205c4429ac)
-
-<h3 align="left">📖 Book I am reading:</h3>
-
-- <a href="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/611QmrGM-YL._SL1500_.jpg" target="_blank">GRADLE IN ACTION</a> &nbsp;
  
 <h3 align="left">📫 Connect with me:</h3>
 
